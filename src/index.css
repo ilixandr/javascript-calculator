@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css?family=Orbitron");
+body {
+  background-color: black; }
+
+#reactor {
+  width: 256px;
+  height: 380px;
+  background-color: #D9D9D9;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 5px; }
+
+.contain {
+  display: grid;
+  grid-template-rows: 62px 308px; }
+
+#display {
+  background-color: #26282C;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  font-family: "Orbitron", sans-serif;
+  font-size: 20px;
+  padding: 5px; }
+
+.pads {
+  background-color: #26282C;
+  display: grid;
+  grid-template-areas: "clear clear divide multiply" "seven eight nine subtract" "four five six add" "one two three equals" "fcc zero decimal equals"; }
+
+#clear, #divide, #multiply, #seven, #eight, #nine, #subtract, #four, #five, #six, #add, #one, #two, #three, #equals, #zero, #decimal {
+  width: 60px;
+  height: 60px;
+  background-color: black;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 30px; }
+
+#clear {
+  grid-area: clear;
+  width: 122px; }
+
+#divide {
+  grid-area: divide; }
+
+#multiply {
+  grid-area: multiply; }
+
+#seven {
+  grid-area: seven; }
+
+#eight {
+  grid-area: eight; }
+
+#nine {
+  grid-area: nine; }
+
+#subtract {
+  grid-area: subtract; }
+
+#four {
+  grid-area: four; }
+
+#five {
+  grid-area: five; }
+
+#six {
+  grid-area: six; }
+
+#add {
+  grid-area: add; }
+
+#one {
+  grid-area: one; }
+
+#two {
+  grid-area: two; }
+
+#three {
+  grid-area: three; }
+
+#equals {
+  grid-area: equals;
+  height: 120px; }
+
+#fcc {
+  grid-area: fcc;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  font-size: 30px; }
+
+.active-pad {
+  background-color: orange !important;
+  font-weight: 900; }
+
+.inactive-pad {
+  font-weight: 700; }
