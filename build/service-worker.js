@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/projects/javascript-calculator/precache-manifest.aec4a6bac6fe0968bc564dfd44c2d541.js"
+  "/javascript-calculator/build/precache-manifest.3c1351e465b403f55fa3b284f58519f4.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/projects/javascript-calculator/index.html", {
+workbox.routing.registerNavigationRoute("/javascript-calculator/build/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -23,5 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "http://www.iwannaweb.ro/projects/javascript-calculator/"
+  "homepage": "http://localhost/javascript-calculator/build/"
 }

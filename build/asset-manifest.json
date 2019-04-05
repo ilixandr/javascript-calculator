@@ -1,13 +1,13 @@
 {
-  "main.css": "/projects/javascript-calculator/static/css/main.bdd56cf4.chunk.css",
-  "main.js": "/projects/javascript-calculator/static/js/main.dea074cc.chunk.js",
-  "main.js.map": "/projects/javascript-calculator/static/js/main.dea074cc.chunk.js.map",
-  "runtime~main.js": "/projects/javascript-calculator/static/js/runtime~main.f9d15641.js",
-  "runtime~main.js.map": "/projects/javascript-calculator/static/js/runtime~main.f9d15641.js.map",
-  "static/js/2.2fde715b.chunk.js": "/projects/javascript-calculator/static/js/2.2fde715b.chunk.js",
-  "static/js/2.2fde715b.chunk.js.map": "/projects/javascript-calculator/static/js/2.2fde715b.chunk.js.map",
-  "index.html": "/projects/javascript-calculator/index.html",
-  "precache-manifest.aec4a6bac6fe0968bc564dfd44c2d541.js": "/projects/javascript-calculator/precache-manifest.aec4a6bac6fe0968bc564dfd44c2d541.js",
-  "service-worker.js": "/projects/javascript-calculator/service-worker.js",
-  "static/css/main.bdd56cf4.chunk.css.map": "/projects/javascript-calculator/static/css/main.bdd56cf4.chunk.css.map"
+  "main.css": "/javascript-calculator/build/static/css/main.bdd56cf4.chunk.css",
+  "main.js": "/javascript-calculator/build/static/js/main.5ac061a2.chunk.js",
+  "main.js.map": "/javascript-calculator/build/static/js/main.5ac061a2.chunk.js.map",
+  "runtime~main.js": "/javascript-calculator/build/static/js/runtime~main.e0f14514.js",
+  "runtime~main.js.map": "/javascript-calculator/build/static/js/runtime~main.e0f14514.js.map",
+  "static/js/2.2fde715b.chunk.js": "/javascript-calculator/build/static/js/2.2fde715b.chunk.js",
+  "static/js/2.2fde715b.chunk.js.map": "/javascript-calculator/build/static/js/2.2fde715b.chunk.js.map",
+  "index.html": "/javascript-calculator/build/index.html",
+  "precache-manifest.3c1351e465b403f55fa3b284f58519f4.js": "/javascript-calculator/build/precache-manifest.3c1351e465b403f55fa3b284f58519f4.js",
+  "service-worker.js": "/javascript-calculator/build/service-worker.js",
+  "static/css/main.bdd56cf4.chunk.css.map": "/javascript-calculator/build/static/css/main.bdd56cf4.chunk.css.map"
 }
